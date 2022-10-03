@@ -1,4 +1,4 @@
-# markEight-emoji-interpreter
+# markNine-travel-recommender
 
 This is an application to recommend a travel place for visit in Europe. At first, a user can select any of the 3 cities: 
 1. Heidelberg (Germany)
@@ -12,4 +12,4 @@ Internally, the application makes use of 2 different data structures - Array and
 ReactJS
 
 ### Demo:
-[Emoji Interpreter](https://6qpw6.csb.app/)
+[Travel Recommender ](https://2uc2fi.csb.app/)
